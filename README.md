@@ -9,5 +9,11 @@ Our UML is provided in the **[UML_class_diagram.svg](UML_class_diagram.svg)** fi
 ### Authors
 List of [collaborators](https://github.com/tiagodusilva/FEUP-AEDA-Proj1/contributors)
 
+### Know bugs
+The code on this repository was left *as is* on the dead-line for delivery so the bugs listed below should be fixed on the second part of the project:  
+- Reading list of users' (CCs) who have bought an event from files (missing a vector clear)  
+- Information validity checking when using some of the setters (information changing)  
+- Can't remember the others (if any)..
+
 ### License
-*To be determined*
+MIT
