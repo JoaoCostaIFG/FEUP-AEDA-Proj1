@@ -1,5 +1,0 @@
-<map id="Museum" name="Museum">
-<area shape="rect" id="node1" title="Class that represents the Museums associated with our Network." alt="" coords="71,277,237,575"/>
-<area shape="rect" id="node2" href="$classAddress.html" title="Class that saves and handles address information in our project." alt="" coords="5,5,153,200"/>
-<area shape="rect" id="node3" href="$classTime.html" title="Class that saves and handles time information in our project." alt="" coords="178,35,282,171"/>
-</map>

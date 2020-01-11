@@ -1,4 +1,0 @@
-<map id="MenuOptions" name="MenuOptions">
-<area shape="rect" id="node1" title="Menu that serves as an interface to other MenuOption, MenuSelect or MenuFilter instances (all derived..." alt="" coords="5,189,149,325"/>
-<area shape="rect" id="node2" href="$classMenu.html" title="Absract class for menus that don&#39;t modify arguments." alt="" coords="29,5,126,141"/>
-</map>

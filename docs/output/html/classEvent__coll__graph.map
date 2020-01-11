@@ -1,6 +1,0 @@
-<map id="Event" name="Event">
-<area shape="rect" id="node1" title="Class that simulates all the information an enterprise would have about their events." alt="" coords="125,365,335,1000"/>
-<area shape="rect" id="node2" href="$classAddress.html" title="Class that saves and handles address information in our project." alt="" coords="5,57,153,251"/>
-<area shape="rect" id="node3" href="$classTime.html" title="Class that saves and handles time information in our project." alt="" coords="178,86,282,222"/>
-<area shape="rect" id="node4" href="$classDate.html" title="Class that saves and handles date information in our project." alt="" coords="307,5,441,303"/>
-</map>

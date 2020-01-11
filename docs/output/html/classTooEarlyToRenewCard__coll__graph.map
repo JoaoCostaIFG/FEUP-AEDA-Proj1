@@ -1,3 +1,0 @@
-<map id="TooEarlyToRenewCard" name="TooEarlyToRenewCard">
-<area shape="rect" id="node1" title="Thrown when a user attemps to renew a card too early." alt="" coords="5,5,196,83"/>
-</map>

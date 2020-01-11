@@ -1,5 +1,0 @@
-<map id="MenuOptionsFilter&lt; Arg &gt;" name="MenuOptionsFilter&lt; Arg &gt;">
-<area shape="rect" id="node1" title="Menu that controls MenuSelectFilter and other MenuOptionsFilter." alt="" coords="5,373,183,627"/>
-<area shape="rect" id="node2" href="$classMenuFilter.html" title="Abstract class used for specifying menus that modify an argument (by using different filters)" alt="" coords="23,189,165,325"/>
-<area shape="rect" id="node3" href="$classMenu.html" title="Absract class for menus that don&#39;t modify arguments." alt="" coords="45,5,143,141"/>
-</map>

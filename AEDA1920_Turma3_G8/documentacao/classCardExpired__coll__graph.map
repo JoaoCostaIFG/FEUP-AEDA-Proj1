@@ -1,3 +1,0 @@
-<map id="CardExpired" name="CardExpired">
-<area shape="rect" id="node1" title="Thrown when a user attempts to use the benefits of his Card while it is expired." alt="" coords="5,5,132,83"/>
-</map>

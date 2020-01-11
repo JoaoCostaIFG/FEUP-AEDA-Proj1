@@ -1,5 +1,0 @@
-<map id="Card" name="Card">
-<area shape="rect" id="node1" title="Abstract class to save and handle registered users information and their cards." alt="" coords="73,395,251,751"/>
-<area shape="rect" id="node2" href="$classAddress.html" title="Class that saves and handles address information in our project." alt="" coords="5,57,153,251"/>
-<area shape="rect" id="node3" href="$classDate.html" title="Class that saves and handles date information in our project." alt="" coords="177,5,312,303"/>
-</map>

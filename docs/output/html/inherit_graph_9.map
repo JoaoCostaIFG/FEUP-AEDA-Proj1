@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classMenu.html" title="Absract class for menus that don&#39;t modify arguments." alt="" coords="5,93,64,119"/>
-<area shape="rect" id="node2" href="$classMenuFilter.html" title="Abstract class used for specifying menus that modify an argument (by using different filters)" alt="" coords="112,42,255,69"/>
-<area shape="rect" id="node5" href="$classMenuOptions.html" title="Menu that serves as an interface to other MenuOption, MenuSelect or MenuFilter instances (all derived..." alt="" coords="129,93,237,119"/>
-<area shape="rect" id="node6" href="$classMenuSelect.html" title="Wrapper to a function that takes no arguments." alt="" coords="134,143,233,170"/>
-<area shape="rect" id="node3" href="$classMenuOptionsFilter.html" title="Menu that controls MenuSelectFilter and other MenuOptionsFilter." alt="" coords="318,5,470,47"/>
-<area shape="rect" id="node4" href="$classMenuSelectFilter.html" title="Wrapper to function that modifies an argument." alt="" coords="303,71,485,98"/>
-</map>

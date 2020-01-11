@@ -1,4 +1,0 @@
-<map id="UniCard" name="UniCard">
-<area shape="rect" id="node1" title="Saves and handles a university student&#39;s card and information." alt="" coords="42,468,146,575"/>
-<area shape="rect" id="node2" href="$classCard.html" title="Abstract class to save and handle registered users information and their cards." alt="" coords="5,5,183,420"/>
-</map>

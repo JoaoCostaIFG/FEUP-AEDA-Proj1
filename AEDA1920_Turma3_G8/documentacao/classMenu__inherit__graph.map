@@ -1,8 +1,0 @@
-<map id="Menu" name="Menu">
-<area shape="rect" id="node1" title="Absract class for menus that don&#39;t modify arguments." alt="" coords="315,5,412,141"/>
-<area shape="rect" id="node2" href="$classMenuFilter.html" title="Abstract class used for specifying menus that modify an argument (by using different filters)" alt="" coords="124,189,267,325"/>
-<area shape="rect" id="node5" href="$classMenuOptions.html" title="Menu that serves as an interface to other MenuOption, MenuSelect or MenuFilter instances (all derived..." alt="" coords="291,189,435,325"/>
-<area shape="rect" id="node6" href="$classMenuSelect.html" title="Wrapper to a function that takes no arguments." alt="" coords="460,197,595,318"/>
-<area shape="rect" id="node3" href="$classMenuOptionsFilter.html" title="Menu that controls MenuSelectFilter and other MenuOptionsFilter." alt="" coords="5,373,183,627"/>
-<area shape="rect" id="node4" href="$classMenuSelectFilter.html" title="Wrapper to function that modifies an argument." alt="" coords="207,439,389,561"/>
-</map>

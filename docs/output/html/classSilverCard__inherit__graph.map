@@ -1,4 +1,0 @@
-<map id="SilverCard" name="SilverCard">
-<area shape="rect" id="node1" title="Saves and handles a senior user&#39;s card and information." alt="" coords="37,468,151,575"/>
-<area shape="rect" id="node2" href="$classCard.html" title="Abstract class to save and handle registered users information and their cards." alt="" coords="5,5,183,420"/>
-</map>

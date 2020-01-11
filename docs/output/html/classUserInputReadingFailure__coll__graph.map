@@ -1,3 +1,0 @@
-<map id="UserInputReadingFailure" name="UserInputReadingFailure">
-<area shape="rect" id="node1" title="Thrown when there was a user input (usually through std::cin) failure." alt="" coords="5,5,212,83"/>
-</map>
