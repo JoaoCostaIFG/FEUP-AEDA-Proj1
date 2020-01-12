@@ -14,6 +14,7 @@ do the following:
 - create a directory in the project's root: **mkdir cmake-build-debug**  
 - cd into the created directory: **cd cmake-build-debug**  
 - run the following command: **cmake .. && cmake --build . && ./<executable_name>**  
+
 Everytime you want to recompile and run the project, you just need to run
 that last command inside the created folder. Be careful to not commit this folder
 and its contents to the repository as it is considered bad practice (and the files
