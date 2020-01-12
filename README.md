@@ -25,7 +25,8 @@ Our [UML file](UML_class_diagram.svg) was drawn using [draw.io](https://www.draw
 Our UML is provided in the **[UML_class_diagram.svg](UML_class_diagram.svg)** file as an SVG.  
 
 ### Authors
-List of [collaborators](https://github.com/tiagodusilva/FEUP-AEDA-Proj1/contributors)
+List of [collaborators](https://github.com/tiagodusilva/FEUP-AEDA-Proj1/contributors).  
+Only the *master* branch was kept so most of the changes history as been lost.  
 
 ### Know bugs
 The code on this repository was left *as is* on the dead-line for delivery so the
